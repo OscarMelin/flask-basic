@@ -1,0 +1,1 @@
+pip install virtualenv & virtualenv env & env\Scripts\Activate & env\Scripts\pip install -r requirements.txt & py runserver.py
